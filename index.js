@@ -7,20 +7,20 @@ function theBeatlesPlay(musicians, instruments){
   return array
 }
 
-function johnLennonFacts(facts){
-  let array = []
-  let i = 0
-  while (i < facts.length){
-    array[i] = facts[i] + "!!!"
-  }
-  return array
-}
-
-function iLoveTheBeatles(number){
-  let array = []
-  do{
-    array.push("I love the Beatles!")
-    number++
-  }while(number < 15)
-  return array
-}
+// function johnLennonFacts(facts){
+//   let array = []
+//   let i = 0
+//   while (i < facts.length){
+//     array[i] = facts[i] + "!!!"
+//   }
+//   return array
+// }
+//
+// function iLoveTheBeatles(number){
+//   let array = []
+//   do{
+//     array.push("I love the Beatles!")
+//     number++
+//   }while(number < 15)
+//   return array
+// }
